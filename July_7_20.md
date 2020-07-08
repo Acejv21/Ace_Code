@@ -23,4 +23,4 @@ houses and train a neural net model that estimates the relationship between
 them. Based on this model, which of the six homes present a good deal?
 Which one is the worst deal? Justify your answer.
 
-Q3. Answer: I found the answer for this question by finding the predicted value for the house based on bedrooms and subtracting it from the current price given. I found that the 4-bedroom house was the best deal and the 3-bedroom house ended up being the worst deal. please see my private for the code for this problem.
+Q3. Answer: I found the answer for this question by finding the predicted value for the house based on bedrooms and subtracting it from the current price given. the greatest lower  nuber was the best deal. I found that the 4-bedroom house was the best deal and the 3-bedroom house ended up being the worst deal. please see my private for the code for this problem.
