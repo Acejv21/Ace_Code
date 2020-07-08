@@ -16,7 +16,7 @@ Questions and_ Answers: 7/7/2020
  twice and provide both answers. Are they the same? Are they different?
  Why is this so?
  
-Q2. Answer: The first round is 219987 and the second round was 22.00083.  the output is different every time because the algorithm optimizer predicts something different every time as it learns from itself every time.  
+Q2. Answer: The first round is 21.9987 and the second round was 22.00083.  the output is different every time because the algorithm optimizer predicts something different every time as it learns from itself every time.  
 
 Q3. Using the script, you produced to predict housing price, take the provided six
 houses and train a neural net model that estimates the relationship between
