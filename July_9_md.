@@ -1,0 +1,7 @@
+
+1.tenser flow hub is a library for the publication, discovery, and consumption of reusable parts of machine learning models. We used this in the first layer of the model to create a Keras layer that uses a TensorFlow Hub model to embed the sentences.
+2 loss: 0.327 accuracy: 0.851
+
+3. Based on these graphs we can see that the x- axis are epochs and the why access is Accuracy. We can also see that the algorithm does much better with the training sets then it does with data it has never seen before. These graphs are also a representation of an over fit model.
+4. In this plot, the dots represent the training loss and accuracy, and the solid lines are the validation loss and accuracy. the training loss decreases with each epoch and the training accuracy increases with each epoch. This is expected when using a gradient descent optimization—it should minimize the desired quantity on every iteration.
+
