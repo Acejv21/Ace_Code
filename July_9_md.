@@ -4,4 +4,4 @@
 
 3. Based on these graphs we can see that the x- axis are epochs and the why access is Accuracy. We can also see that the algorithm does much better with the training sets then it does with data it has never seen before. These graphs are also a representation of an over fit model.
 4. In this plot, the dots represent the training loss and accuracy, and the solid lines are the validation loss and accuracy. the training loss decreases with each epoch and the training accuracy increases with each epoch. This is expected when using a gradient descent optimization—it should minimize the desired quantity on every iteration.
-
+this was cool!
