@@ -14,3 +14,9 @@ Index of responses and projects
 [July_15_20](https://acejv21.github.io/Ace_Code/July_15_20)
 
 [Project_2](https://acejv21.github.io/Ace_Code/Project_2)
+
+[July_20_20](https://acejv21.github.io/Ace_Code/July_20_20)
+
+[July_21_20](https://acejv21.github.io/Ace_Code/July_21_20)
+
+[July_22_20](https://acejv21.github.io/Ace_Code/July_22_20)
