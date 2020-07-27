@@ -1,12 +1,21 @@
 For Project Three, I started by downloading the 4 compressed files from slack titled Accra1.zip, Accra2.zip, Accra3.zipand Accra4.zip.  These files contain 10,000 equally sized, high resolution (~60cm), bird’s eye images (orthophotos) of the Korle Gonno neighborhood in Accra. I Also downloaded the file titled labels.csv from the same location.  
+
 I made my initial imports: 
+
 import numpy as np
+
 from numpy import genfromtxt
+
 import glob
+
 from PIL import Image
+
 import tensorflow as tf
+
 from tensorflow.keras.optimizers import RMSprop
+
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
+
 import re
 
 
