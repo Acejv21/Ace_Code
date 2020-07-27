@@ -42,6 +42,6 @@ Finally, I wanted to test how well the CNN model would predict the population if
 ## Prediction and Image: 
 
 
-![final_p3]()
+![final_p3](https://github.com/Acejv21/Ace_Code/blob/master/final_p3.png?raw=true)
 ![final_p3]()
 ![final_p3]()
