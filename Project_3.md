@@ -36,3 +36,12 @@ Epoch 5/5
 90/90 [==============================] - 875s 10s/step - loss: 3172.1843 - mae: 43.2999 - mse: 3172.1843
 
 The results show that CNN model performed much better than the DNN as the CNN model  utilized methods such as pooling to maintain the better quality with each epoch, which led to considerable reduction in the MAE.
+
+Finally, I wanted to test how well the CNN model would predict the population if I selected three random images. Using the entire data set, I fit the model with batch size of 100, 5 epochs, and 90 training steps per epoch. I tested the 88th, 100th, and 110th image. The results for each are placed below. All though the results were rather unimpressive, I do believe a more dedicated computer could achieve great results using the CNN model.  
+
+## Prediction and Image: 
+
+
+![final_p3]()
+![final_p3]()
+![final_p3]()
