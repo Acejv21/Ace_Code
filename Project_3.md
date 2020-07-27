@@ -43,5 +43,9 @@ Finally, I wanted to test how well the CNN model would predict the population if
 
 
 ![final_p3](https://github.com/Acejv21/Ace_Code/blob/master/final_p3.png?raw=true)
+
+Predected:  __ Output: 0
+
+
 ![final_p3]()
 ![final_p3]()
