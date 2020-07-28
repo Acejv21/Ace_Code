@@ -47,5 +47,8 @@ Finally, I wanted to test how well the CNN model would predict the population if
 Predected:  __ Output: 0
 
 
-![final_p3]()
+![Pic_p3_100]()
+
+Predicted:0.26262376__Output:  7.98089265823364
+
 ![final_p3]()
