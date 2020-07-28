@@ -47,10 +47,13 @@ Image 88:
 
 Predected:0.25877953__ Output:37.3801651000977
 
+Image: 100
 
 ![Pic_p3_100](https://github.com/Acejv21/Ace_Code/blob/master/Pic_p3_100.png?raw=true)
 
 Predicted:0.26262376__Output:  7.98089265823364
+
+Image:110
 
 ![final_3_110](https://github.com/Acejv21/Ace_Code/blob/master/Pic_3_110.png?raw=true)
 
