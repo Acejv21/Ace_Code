@@ -45,7 +45,7 @@ Image 88:
 
 ![final_p3](https://github.com/Acejv21/Ace_Code/blob/master/final_p3.png?raw=true)
 
-Predected:0.25877953__ Output:37.3801651000977
+Predicted:0.25877953__ Output:37.3801651000977
 
 Image: 100
 
