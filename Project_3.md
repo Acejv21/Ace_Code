@@ -41,14 +41,17 @@ Finally, I wanted to test how well the CNN model would predict the population if
 
 ## Prediction and Image: 
 
+Image 88:
 
 ![final_p3](https://github.com/Acejv21/Ace_Code/blob/master/final_p3.png?raw=true)
 
-Predected:  __ Output: 0
+Predected:0.25877953__ Output:37.3801651000977
 
 
-![Pic_p3_100]()
+![Pic_p3_100](https://github.com/Acejv21/Ace_Code/blob/master/Pic_p3_100.png?raw=true)
 
 Predicted:0.26262376__Output:  7.98089265823364
 
-![final_p3]()
+![final_3_110](https://github.com/Acejv21/Ace_Code/blob/master/Pic_3_110.png?raw=true)
+
+Predicted: 0.20294054__OutPut: 8.96226596832275
