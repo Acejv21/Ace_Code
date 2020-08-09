@@ -6,7 +6,7 @@ A. Problem Statement: With a nationwide overdose death toll reaching 2,846,305 I
 
 I began this undertaking by adopting parts of the Boosted Tree models and the tf.estimators  portion of a different model to make the predictions I hoped to ascertain accurately.
 
-
+![Capture_Final](https://github.com/Acejv21/Ace_Code/blob/master/Capture_Final.PNG?raw=true)
 
 Once my models we coded correctly, I was able to import my discrete data set from the CDC database. This data set contained 7722 rows and 18 columns.With in this data set there was information regaurding Race, Gender, State ,Census Regions, Population, Deaths, and  statistical information. Next, I cleaned the data set using wrangling methods that utilized for loops to scrub and extract the particulars of the data I was interested in analyzing. This section proved the most difficult, as the CDC data was incomplete and required a lot of cleaning and restructuring. I managed to get the data set to the point where I could begin to perform descriptive analytics, but not quite to the point where I could make predictions.  
 
