@@ -1,3 +1,8 @@
+https://docs.google.com/presentation/d/1bM5py4octPuK3XWkf6qRXiPPPMVDfFheMMgmXNxk3J0/edit?usp=sharing
+
+
+
+
 ## Problem Statment: 
 
 A. Problem Statement: With a nationwide overdose death toll reaching 2,846,305 In 2018, the rise in opioid overdoses have led experts to label this crisis an epidemic formally. Data maintained by the CDC and other nonprofit organizations have made it easier to analyze how different areas of the United States are being affected by this crisis, and how they may be affected in the future.  With the use of Gradient Boosting Tree models utilizing decision trees with the tf. Estimator API; I hope to accurately predict an overdose death rate based on several variables such as State, Race, Gender, and whether there was an increase in cases from the year prior. I will use existing data from 1999- 2016 as a training set and existing data from 2017 as my testing data. With these sources, I will be able to see how accurate my algorithm is at predicting the overdose rates in the United States, as well as predict the demographics of our population most at risk.
